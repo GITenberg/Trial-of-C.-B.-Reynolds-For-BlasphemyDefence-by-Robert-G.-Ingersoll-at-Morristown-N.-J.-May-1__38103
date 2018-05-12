@@ -1,0 +1,42 @@
+_repo: Trial-of-C.-B.-Reynolds-For-BlasphemyDefence-by-Robert-G.-Ingersoll-at-Morristown-N.-J.-May-1__38103
+_version: 0.1.0
+contributor:
+  transcriber:
+    agent_name: Baker, I. N. (Isaac Newton)
+    alias: Baker, Isaac Newton
+    birthdate: 1838
+    gutenberg_agent_id: '38826'
+    url: http://www.gutenberg.org/2009/agents/38826
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Bob
+    - Ingersoll, Robert G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reynolds, C. B. (Charles B.), 1832-1896 -- Trials, litigation, etc.'
+- !lcsh 'Trials (Blasphemy) -- New Jersey -- Morristown'
+- !lcc 'KF'
+- !lcc 'BL'
+- !lcsh 'Freedom of speech -- United States'
+- !lcsh 'Freedom of religion -- United States'
+title: 'Trial of C. B. Reynolds For Blasphemy, at Morristown, N. J., May 1887: Defence'
+url: http://www.gutenberg.org/ebooks/38103
