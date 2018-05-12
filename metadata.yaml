@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2662
     wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38103#Trial-of-C.-B.-Reynolds-For-BlasphemyDefence-by-Robert-G.-Ingersoll-at-Morristown-N.-J.-May-1_
 gutenberg_issued: '2011-11-22'
 gutenberg_type: Text
 identifiers:
